@@ -1,0 +1,53 @@
+.box1{/*selector clase*/
+  background-color: red;/*color de fondo rojo*/
+  width: 400px;/*ancho*/
+  height: 400px;/*altura*/
+  position:static;/*propiedad position con un valor static para mantener su lugar*/
+}
+
+.box2{
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    position: relative;/*propiedad position con valor relative Para fijar su posicion finaL*/
+    bottom:300px;/*lado inferiorpara que suba nuestra figura*/
+    left: 100px;/*lado izquierdo se mueva a la derecha*/
+
+}
+
+.box3{
+    background-color:yellow;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom:500px;
+    left: 100px;
+
+}
+.box4{
+  background-color: blue;
+  width:400px;
+  height: 400px;
+  position:relative;
+  bottom: 270px;
+  left: 1px;
+
+}
+.box5{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom:570px;
+    left: 100px;
+
+}
+.box6{
+    background-color:black;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom:870px;
+    left: 1px;
+
+}
